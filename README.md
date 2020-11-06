@@ -4,4 +4,4 @@ Revo Uno is a cartesian FDM (Fused Deposition Modeling) 3D printer. This 3D prin
 ## Features
 * Bowden extruder
 * Cartesian coordinate system
-* Metal frame made out of box section, the Mendel 3D printer uses rods for the frame, this one uses
+* Metal frame made out of box section
