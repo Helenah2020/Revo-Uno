@@ -2,5 +2,7 @@
 The Revo Z Board 1 is a circuit board with 4 straight line copper traces which act as electrical rails that enables the stepper motor which moves the X carriage left and right to be powered via a rail instead of directly via wiring. The board features 4 holes for a pin header so you can plug a stepper motor cable into it.
 
 ## Images
+**3D View:**
 ![PCB 3D View](https://github.com/Helenah2020/Revo-Uno/blob/main/pcb/z-board/1/images/3d-view.png)
+**Worksheet:**
 ![PCB Worksheet](https://github.com/Helenah2020/Revo-Uno/blob/main/pcb/z-board/1/images/worksheet.png)
