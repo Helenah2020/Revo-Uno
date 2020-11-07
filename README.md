@@ -7,5 +7,14 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 * **Dual extrusion:** There is an option to add a second extruder to the printer.
 * Metal frame consisting of a combination of box section and rods
 
+## Required Parts
+ * 10x ISO 7045 M3 12mm length screws
+ * 4x ISO 7045 M5 20mm length screws
+ * 2x ISO 7045 M5 60mm length screws
+ * 8x ISO 7045 M3 40mm length screws
+ * 6x ISO 7045 M3 55mm length screws
+ * 1x ISO 7045 M8 40mm length screws
+ * 42x ISO 4032 M10 hexagonal nuts
+ 
 ## Be Green
 Billions of tonnes of plastic is in the environment around us. Think before you print, re-use, recycle.
