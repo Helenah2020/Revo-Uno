@@ -6,3 +6,6 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 * **Cartesian coordinate system:** Cartesian 3D printers are named after the Cartesian coordinate system that uses X, Y, and Z coordinates to plot points. This system of coordinates is used to determine the location of the print head. Cartesian 3D printers do this through a system of smooth circular rod rails and linear bearings which are used to move the print head or the print bed or a combination of both to position the nozzle anywhere in the 3D space.
 * **Dual extrusion:** There is an option to add a second extruder to the printer.
 * Metal frame consisting of a combination of box section and rods
+
+## Be Green
+Billions of tonnes of plastic is in the environment around us. Think before you print, re-use, recycle.
