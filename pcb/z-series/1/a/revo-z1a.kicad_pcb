@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 10)
-    (tracks 10)
+    (tracks 12)
     (zones 0)
     (modules 1)
     (nets 1)
@@ -11,9 +11,9 @@
 
   (page User 240.005 101.6)
   (title_block
-    (title "Revo Z Board 1")
-    (date 2020-11-06)
-    (rev 1)
+    (title "Revo Z1A")
+    (date 2020-11-07)
+    (rev 2)
   )
 
   (layers
@@ -117,7 +117,7 @@
     )
   )
 
-  (gr_text "Z Board 1" (at 22.86 33.02 -90) (layer F.Cu)
+  (gr_text Z1A (at 22.86 33.02 -90) (layer F.Cu)
     (effects (font (size 1.5 1) (thickness 0.25)))
   )
   (gr_text Revo (at 25.4 39.37) (layer F.Cu)
@@ -135,20 +135,22 @@
   (gr_text B (at 25.4 29.21) (layer F.Cu)
     (effects (font (size 1.5 1.5) (thickness 0.375)))
   )
-  (gr_line (start 219.71 25.4) (end 219.71 41.91) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 21.59 25.4) (end 219.71 25.4) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 240.03 25.4) (end 240.03 41.91) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 21.59 25.4) (end 240.03 25.4) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 21.59 41.91) (end 21.59 25.4) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 219.71 41.91) (end 21.59 41.91) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 240.03 41.91) (end 21.59 41.91) (layer Edge.Cuts) (width 0.1))
 
-  (segment (start 29.21 27.94) (end 217.73 27.94) (width 2) (layer F.Cu) (net 0))
-  (segment (start 29.21 39.37) (end 217.73 39.37) (width 2) (layer F.Cu) (net 0))
-  (segment (start 30.48 35.56) (end 217.73 35.56) (width 2) (layer F.Cu) (net 0))
-  (segment (start 27.94 31.75) (end 217.73 31.75) (width 2) (layer F.Cu) (net 0))
-  (segment (start 27.94 31.75) (end 217.73 31.75) (width 2) (layer F.Cu) (net 0))
   (segment (start 29.21 27.94) (end 27.94 29.21) (width 2) (layer F.Cu) (net 0))
   (segment (start 30.48 35.56) (end 29.21 34.29) (width 2) (layer F.Cu) (net 0))
   (segment (start 29.21 34.29) (end 27.94 34.29) (width 2) (layer F.Cu) (net 0))
   (segment (start 29.21 39.37) (end 27.94 38.1) (width 2) (layer F.Cu) (net 0))
   (segment (start 27.94 38.1) (end 27.94 36.83) (width 2) (layer F.Cu) (net 0))
+  (segment (start 29.21 27.94) (end 237.49 27.94) (width 2) (layer F.Cu) (net 0))
+  (segment (start 27.94 31.75) (end 48.26 31.75) (width 2) (layer F.Cu) (net 0))
+  (segment (start 48.26 31.75) (end 88.9 31.75) (width 2) (layer F.Cu) (net 0))
+  (segment (start 88.9 31.75) (end 179.07 31.75) (width 2) (layer F.Cu) (net 0))
+  (segment (start 179.07 31.75) (end 237.49 31.75) (width 2) (layer F.Cu) (net 0))
+  (segment (start 30.48 35.56) (end 237.49 35.56) (width 2) (layer F.Cu) (net 0))
+  (segment (start 29.21 39.37) (end 237.49 39.37) (width 2) (layer F.Cu) (net 0))
 
 )
