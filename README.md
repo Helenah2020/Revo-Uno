@@ -20,7 +20,7 @@ We wanted to use screwdrivers and little tools as much as possible so we adopted
 | 1        | M8   | 40mm   | DIN 7985 |
 
 **Hexagonal nuts:**\
-Models of the DIN 934 standard are included in this repository.
+Models of the DIN 934 standard and the sizes required for this printer are included in this repository.
 | Quantity | Size | Standard |
 | -------- | ---- | -------- |
 | 1        | M8   | DIN 985  |
