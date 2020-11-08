@@ -18,7 +18,7 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 | 6        | M3   | 55mm   | DIN 7985 |
 | 1        | M8   | 40mm   | DIN 7985 |
 
-**Hexagonal nuts:**
+**Hexagonal nuts:**\
 Models of the DIN 934 standard are included in this repository.
 | Quantity | Size | Standard |
 | -------- | ---- | -------- |
