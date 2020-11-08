@@ -25,7 +25,11 @@ A lot of readily available parts on this printer are well documented internation
 | -------- | ---- | -------- |
 | 1        | M8   | DIN 985  |
 | 42       | M10  | DIN 934  |
-* 6x DIN 976 M10 threaded stud bolts
+
+**Bolts:**
+| Quantity | Size | Length | Standard |
+| -------- | ---- | ------ | -------- |
+| 6        | M10  |        | DIN 976  |
 * GT2 timing belt
 * 6x 8mm stainless steel round bars
  
