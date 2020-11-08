@@ -9,12 +9,17 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 
 ## Required Parts
 A lot of readily available parts on this printer are well documented international standards, I've made sure to include the name of the standard of each part for your ease of finding the correct part.
-* 10x DIN 7985 M3 12mm length screws
-* 4x DIN 7985 M5 20mm length screws
-* 2x DIN 7985 M5 60mm length screws
-* 8x DIN 7985 M3 40mm length screws
-* 6x DIN 7985 M3 55mm length screws
-* 1x DIN 7985 M8 40mm length screws
+
+**Screws:**
+All the screws used on this printer comply with the DIN 7985 standard.
+| Quantity | Size | Length |
+| -------- | ---- | ------ |
+| 10       | M3   | 12mm   |
+| 4        | M5   | 20mm   |
+| 2        | M5   | 60mm   |
+| 8        | M3   | 40mm   |
+| 6        | M3   | 55mm   |
+| 1        | M8   | 40mm   |
 * 1x DIN 985 M8 nylon insert hexagonal nut
 * 42x DIN 934 M10 hexagonal nuts
 * 6x DIN 976 M10 threaded stud bolts
