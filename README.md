@@ -15,7 +15,7 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 * 6x DIN 7985 M3 55mm length screws
 * 1x DIN 7985 M8 40mm length screws
 * 42x DIN 934 M10 hexagonal nuts
-* 6x DIN 976 M10 bolts 
+* 6x DIN 976 M10 threaded stud bolts 
 * GT2 timing belt 
  
 ## Be Green
