@@ -40,4 +40,4 @@ Billions of tonnes of polymer is in the environment around us. Think before you 
 * PLA (Polylactic Acid)
 * PET (Polyethylene terephthalate)
 
-Ideally, it would be better of polymers were compostable, fortunately there is active research in the use of compostible polymers and there is even one out there made from brown seaweed as a renewable source but unfortunately this isn't readily available anywhere yet.
+Ideally, it would be better if polymers were compostable, fortunately there is active research in the use of compostible polymers and there is even one out there made from brown seaweed as a renewable source and only takes 4-6 weeks to decompose but unfortunately this isn't readily available anywhere yet.
