@@ -34,4 +34,6 @@ Models of the DIN 934 standard are included in this repository.
 * 6x DIN 2395 square steel tubes
  
 ## Be Green
-Billions of tonnes of plastic is in the environment around us. Think before you print, re-use, recycle.
+Billions of tonnes of polymer is in the environment around us. Think before you print, re-use, recycle. All polymers are dirty, even the recycling process (melting down) of polymers is dirty however one can take the care to reduce their environmental impact. Below is a list of friendlier polymers which have a low bio-degrading time and even easy to work with reducing polymer waste.
+* PLA (Polylactic Acid)
+* PET (Polyethylene terephthalate)
