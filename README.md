@@ -30,6 +30,7 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 | 6        | M10  |        | DIN 976  |
 * GT2 timing belt
 * 6x 8mm stainless steel round bars
+* 6x DIN 10210 square hollow sections
  
 ## Be Green
 Billions of tonnes of plastic is in the environment around us. Think before you print, re-use, recycle.
