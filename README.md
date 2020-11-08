@@ -8,8 +8,6 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 * Metal frame consisting of a combination of box section and rods
 
 ## Required Parts
-A lot of readily available parts on this printer are well documented international standards, I've made sure to include the name of the standard of each part for your ease of finding the correct part.
-
 **Screws:**
 | Quantity | Size | Length | Standard |
 | -------- | ---- | ------ | -------- |
