@@ -7,7 +7,7 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 * **Dual extrusion:** There is an option to add a second extruder to the printer.
 * Metal frame consisting of a combination of square hollow section and rods
 
-## Required Parts
+## List of Parts
 **Screws:**
 | Quantity | Size | Length | Standard |
 | -------- | ---- | ------ | -------- |
@@ -19,6 +19,7 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 | 1        | M8   | 40mm   | DIN 7985 |
 
 **Hexagonal nuts:**
+Models of the DIN 934 standard are included in this repository.
 | Quantity | Size | Standard |
 | -------- | ---- | -------- |
 | 1        | M8   | DIN 985  |
