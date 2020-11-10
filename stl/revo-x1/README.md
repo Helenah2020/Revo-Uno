@@ -4,4 +4,4 @@
 ## Modules included
 | Name       | Description |
 | ---------- | ----------- |
-| Revo X1M1A | Single E3D v6 Hot End |
+| Revo X1M1A | Single E3D v6 Hot End (Part 1) |
