@@ -12,7 +12,7 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 We wanted to use pozi screwdrivers so we adopted the DIN 7985 standard for all the screws on this printer which are pozi pan head machine screws.
 | Quantity | Size | Length | Standard |
 | -------- | ---- | ------ | -------- |
-| 10       | M3   | 12mm   | DIN 7985 |
+| 11       | M3   | 12mm   | DIN 7985 |
 | 4        | M5   | 20mm   | DIN 7985 |
 | 2        | M5   | 60mm   | DIN 7985 |
 | 8        | M3   | 40mm   | DIN 7985 |
