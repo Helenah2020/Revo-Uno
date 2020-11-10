@@ -8,7 +8,8 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 * Metal frame consisting of a combination of square hollow section and rods
 
 ## List of Parts
-**Screws:**
+**Screws:**\
+We wanted to use pozi screwdrivers so we adopted the DIN 7985 standard for all the screws on this printer which are pozi pan head machine screws.
 | Quantity | Size | Length | Standard |
 | -------- | ---- | ------ | -------- |
 | 10       | M3   | 12mm   | DIN 7985 |
@@ -19,7 +20,7 @@ The **Revo Uno** is a cartesian FDM (Fused Deposition Modeling) 3D printer. This
 | 1        | M8   | 40mm   | DIN 7985 |
 
 **Hexagonal nuts:**\
-Models of the DIN 934 standard are included in this repository.
+Models of the DIN 934 standard and the sizes required for this printer are included in this repository.
 | Quantity | Size | Standard |
 | -------- | ---- | -------- |
 | 1        | M8   | DIN 985  |
@@ -34,4 +35,9 @@ Models of the DIN 934 standard are included in this repository.
 * 6x DIN 2395 square steel tubes
  
 ## Be Green
-Billions of tonnes of plastic is in the environment around us. Think before you print, re-use, recycle.
+Billions of tonnes of polymer is in the environment around us. Think before you print, re-use, recycle. All polymers are dirty, even the recycling process (melting down) of polymers is dirty however one can take the care to reduce their environmental impact. The key is, produce as little waste as possible, choose wisely your polymer, if you don't have a good solid reason to print using anything but a friendlier polymer then print using a friendlier polymer. Below is a list of friendlier polymers which have a low bio-degrading time and even easy to work with reducing polymer waste.
+
+* PLA (Polylactic Acid)
+* PET (Polyethylene terephthalate)
+
+Ideally, it would be better if polymers were compostable, fortunately there is active research in the use of compostable polymers and there is even one out there made from brown seaweed as a renewable source and only takes 4-6 weeks to decompose but unfortunately this isn't readily available anywhere yet.
