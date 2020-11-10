@@ -5,3 +5,4 @@
 | Name       | Description |
 | ---------- | ----------- |
 | Revo X1M1A | Single E3D v6 Hot End (Part 1) |
+| Revo X1M1B | Single E3D v6 Hot End (Part 2) |
