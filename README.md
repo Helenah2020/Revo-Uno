@@ -39,7 +39,7 @@ Billions of tonnes of polymer is in the environment around us. Think before you 
 
 * PLA (Polylactic acid)
 * PET (Polyethylene terephthalate)
-* PVA (Polyvinyl acetate)
-* Bio-polycarbonates
+* PVA (Polyvinyl alcohol): PVA is soft and dissolves in water therefore is good for printing support material.
+* Bio-polycarbonates: Polycarbonates are strong, stiff, hard, tough, transparent engineering thermoplastics.
 
 Ideally, it would be better if polymers were compostable, fortunately there is active research in the development of compostable polymers and there is even one out there made from brown seaweed as a renewable source and only takes 4-6 weeks to decompose but unfortunately this isn't readily available anywhere yet.
