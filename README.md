@@ -35,11 +35,13 @@ Models of the DIN 934 standard and the sizes required for this printer are inclu
 * 6x DIN 2395 square steel tubes
  
 ## Be Green
-Billions of tonnes of polymer is in the environment around us. Think before you print, re-use, recycle. All polymers are dirty, even the recycling process (melting down) of polymers is dirty however one can take the care to reduce their environmental impact. The key is, produce as little waste as possible, choose wisely your polymer, if you don't have a good solid reason to print using anything but a friendlier polymer then print using a friendlier polymer. Below is a list of friendlier polymers which have a low bio-degrading time and even easy to work with reducing polymer waste.
+Billions of tonnes of polymer is in the environment around us. Think before you print, re-use, recycle. All polymers are dirty, even the recycling process (melting down) of polymers is dirty however one can take the care to reduce their environmental impact. The key is, produce as little waste as possible, choose wisely your polymer, if you don't have a good solid reason to print using anything but a friendlier polymer then print using a friendlier polymer. Below is a list of friendlier polymers which are biodegradable and even easy to work with reducing polymer waste.
 
-* PLA (Polylactic acid)
-* PET (Polyethylene terephthalate)
-* PVA (Polyvinyl alcohol): PVA is soft and dissolves in water therefore is good for printing support material.
-* Bio-polycarbonates: Polycarbonates are strong, stiff, hard, tough, transparent engineering thermoplastics that are 20 times harder than fiberglass and 120 harder than traditional glass.
+| Name                             | Biodegradation Time | Properties |
+| -------------------------------- | ------------------- | ---------- |
+| PLA (Polylactic acid)            | 80 Years            |            |
+| PET (Polyethylene terephthalate) | 450 Years           |            |
+| PVA (Polyvinyl alcohol)          | 10-30 Years         | PVA is soft and dissolves in water therefore is good for printing support material. |
+| Bio-polycarbonates               |                     | Polycarbonates are strong, stiff, hard, tough, transparent engineering thermoplastics that are 20 times harder than fiberglass and 120 harder than traditional glass. |
 
 Ideally, it would be better if polymers were compostable, fortunately there is active research in the development of compostable polymers and there is even one out there made from brown seaweed as a renewable source and only takes 4-6 weeks to decompose but unfortunately this isn't readily available anywhere yet.
